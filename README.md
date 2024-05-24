@@ -1,2 +1,2 @@
-This is the login form html and css without using any farmework .
+This is the simple Login-form using html and css it
 This is usefuyll for the login websites.
