@@ -1,2 +1,2 @@
-This is the login form of webiste using html and css
+This is the login form using html and css .
 
