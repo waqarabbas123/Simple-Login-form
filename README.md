@@ -1,2 +1,2 @@
-In this repository i can make a simple login form using html and css.
+Simple login form using HTML and CSS 
 
