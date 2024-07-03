@@ -1,2 +1,2 @@
 #__Login form 
-In this repository i can make a creative degin of login form .
+Using html and css i can make a simple loign form .
